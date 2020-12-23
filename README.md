@@ -1,12 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/Sayanta27056297">
-  <img align="left" alt="Sayantan Ghosh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://twitter.com/Sayanta27056297">
-  <img align="left" alt="Sayantan Ghosh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
 <br />
-I am **Sayantan Ghosh** , a passionate self-taught Machine Learning Researcher 🚀 from India.
+I am Sayantan Ghosh , a passionate self-taught Machine Learning Researcher 🚀 from India.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -17,16 +13,21 @@ I am **Sayantan Ghosh** , a passionate self-taught Machine Learning Researcher �
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/drive/folders/105Tdrd5TnMvNK0SBw2yc408bE-vbCLjb)
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://images.squarespace-cdn.com/content/v1/5b20050e3c3a534593e1acc3/1547973463256-45ACTOP3J98ZJLMGLTQU/ke17ZwdGBToddI8pDm48kABpC-8OSMfOfgwGbWCJtcpZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHJxc9w8SoP6GKVGdwrslLhn1RxToi7nIkzmPmivim25B926scO3xePJoa6uVJa9B4/Anaconda.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+
+
+
+
+##  🤹 Skill Zone
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=flat-square&logo=scikit-learn"/> <img src="https://img.shields.io/badge/Flask-grey?&style=for-the-badge&logo=flask"/>  
+</p>
+
+<br/>
+
+#### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/abhinand05) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999)
 
 	
 # Research & Publications:
@@ -56,8 +57,5 @@ The following table contains all the code bases of the competitions that I parti
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sghosh1999&show_icons=true&theme=gotham" alt="Sghosh1999" /> 
-<br/>
-
-![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sghosh1999&langs_count=4)
 
 

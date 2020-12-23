@@ -23,6 +23,8 @@ I am Sayantan Ghosh , a passionate self-taught Machine Learning Researcher 🚀 
 <p align="center">
 <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013220?&style=flat-square&logo=numpy"/> <img src="https://img.shields.io/badge/Pandas-130654?&style=flat-square&logo=pandas"/> <img src="https://img.shields.io/badge/Scikit--Learn-grey?&style=flat-square&logo=scikit-learn"/> 
 </p>
+
+
 #### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/abhinand05) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999)
 

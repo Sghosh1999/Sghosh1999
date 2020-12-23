@@ -26,7 +26,7 @@ I am Sayantan Ghosh , a passionate self-taught Machine Learning Researcher 🚀 
 
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/abhinand-05) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/abhinand05) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999)
+[![Github Badge](http://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=twitter&logoColor=white&link=https://github.com/Sghosh1999)](https://github.com/Sghosh1999) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayantan-ghosh1999/)](https://linkedin.com/in/sayantan-ghosh1999) [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=for-the-badge&logo=kaggle&link=https://www.kaggle.com/sghosh99/)](https://www.kaggle.com/sghosh99) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://medium.com/@gsayantan1999)](https://medium.com/@gsayantan1999)
 
 	
 # Research & Publications:

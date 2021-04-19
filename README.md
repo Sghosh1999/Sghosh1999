@@ -54,7 +54,8 @@ The following table contains all the code bases of the competitions that I parti
 # Projects Repos
 | No. |         GitHub Repo    |      Description     | Category |  
 |:--:|:--------------------:|:-------------------|:------: |
-|  1. | [Self Driving Car using Raspberry Pi & Arduino](https://github.com/Sghosh1999/Self_Driven_Car)|   For this tutorial, I have finetuned a pre-trained Mask R-CNN model in the Penn-Fudan Database for Pedestrian Detection and Segmentation. It contains 170 images with 345 instances of pedestrians, and later on it will use it to illustrate how to use the new features in torchvision in order to train an instance segmentation model on a custom dataset. | Lane & Object Detection |
+|  1. | [Self Driving Car using Raspberry Pi & Arduino](https://github.com/Sghosh1999/Self_Driven_Car)|   We optimized Canny Edge Detection algorithm incorporating with pixel intensity distribution} to identify parallel pathways which is better than existing technology.\\
+The car can detect Road Signs and can also interpret traffic Light Signal using OpenCV and controls itself accordingly by forwarding impulses to Arduino to control rotor's rotational speed. | Lane & Object Detection |
 |  2. | [**Alpha AI** : Automated ML Web App](https://github.com/Sghosh1999/AlphaAI-Minor-Project-6th-Sem)| Alpha AI is an automated web platform that helps students & data scientists to dig deeper into the data, finding insights and comparing different ML models based on two use cases(Regression & Classification). | Auto ML and Auto EDA |
 
 📈 My GitHub Stats

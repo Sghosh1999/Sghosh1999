@@ -33,11 +33,13 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 
 	
 # Research & Publications:
-|No.| Description | Published | GitHub Repo | Link to Publication|
-|:---:|:-----------|:-----------:|:-------------:|:--------------------:|
-|1. |Detection of Coronavirus(Covid19) disease using Deep Convolutional Neural Networks with Transfer Learning using chest X-Ray Images| Under Review | [Code](https://github.com/Sghosh1999/Fine-Tuned-VGG16-Transfer-learning-Based-Covid19-Xray)| [Link](https://link.springer.com/chapter/10.1007/978-981-16-0935-0_4) |
-|2. |MLAI: An Integrated Automated Software Platform to Solve Machine Learning Problems| Published | | [Link](https://link.springer.com/chapter/10.1007/978-981-15-8685-9_7)|
 
+I have publised two research papers. You can see the edescription below.
+
+| No. |                                  Decription                                  |                                                                                           Published                                                                                            |      GitHub Repo      |                       Link to Publication                        | 
+| :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: |
+|  1.  |  Detection of Coronavirus(Covid19) disease using Deep Convolutional Neural Networks with Transfer Learning using chest X-Ray Images  |   Under Review |       [Code](https://github.com/Sghosh1999/Fine-Tuned-VGG16-Transfer-learning-Based-Covid19-Xray)         |  [Link](https://link.springer.com/chapter/10.1007/978-981-16-0935-0_4) |
+|  2.  |    MLAI: An Integrated Automated Software Platform to Solve Machine Learning Problems| Published | | [Link](https://link.springer.com/chapter/10.1007/978-981-15-8685-9_7)|
 
 	
 	
@@ -52,10 +54,11 @@ The following table contains all the code bases of the competitions that I parti
 |  3. |           HackerEarth Machine Learning Challenge: Carnival Wars       |         [Solution*](https://www.kaggle.com/sghosh99/carnival-wars-eda-modeling-rank-15-solution)         | Regression |**23** rd / 2144 teams (top 1%)      | [Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-selling-price/leaderboard/predict-the-price-5-fe7f8735/page/1/) |
 
 # Projects Repos
-| No. |         GitHub Repo    |      Description     | Category |  
-|:--:|:--------------------:|:-------------------|:------: |
-|  1. | [Self Driving Car using Raspberry Pi & Arduino](https://github.com/Sghosh1999/Self_Driven_Car)|   We optimized Canny Edge Detection algorithm incorporating with pixel intensity distribution} to identify parallel pathways which is better than existing technology.The car can detect Road Signs and can also interpret traffic Light Signal using OpenCV and controls itself accordingly by forwarding impulses to Arduino to control rotor's rotational speed. | Lane & Object Detection |
-|  2. | [**Alpha AI** : Automated ML Web App](https://github.com/Sghosh1999/AlphaAI-Minor-Project-6th-Sem)| Alpha AI is an automated web platform that helps students & data scientists to dig deeper into the data, finding insights and comparing different ML models based on two use cases(Regression & Classification). | Auto ML and Auto EDA |
+
+| No. |                                  GitHub repo                                  |                                                                                           Description                                                                                            |      Category      |
+| :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: |
+|  1. |  [Self Driving Car using Raspberry Pi & Arduino](https://github.com/Sghosh1999/Self_Driven_Car)       |         We optimized Canny Edge Detection algorithm incorporating with pixel intensity distribution} to identify parallel pathways which is better than existing technology.The car can detect Road Signs and can also interpret traffic Light Signal using OpenCV and controls itself accordingly by forwarding impulses to Arduino to control rotor's rotational speed         | Lane & Object Detection |  
+|  2. |  [**Alpha AI** : Automated ML Web App](https://github.com/Sghosh1999/AlphaAI-Minor-Project-6th-Sem)       |         Alpha AI is an automated web platform that helps students & data scientists to dig deeper into the data, finding insights and comparing different ML models based on two use cases(Regression & Classification). | Auto ML |  
 
 📈 My GitHub Stats
 

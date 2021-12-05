@@ -39,7 +39,7 @@ I have publised two research papers. You can see the edescription below.
 | No. |                                  Decription                                  |                                                                                           Published                                                                                            |      GitHub Repo      |                       Link to Publication                        | 
 | :-: | :------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------: | :---------------------------------------------------: |
 |  1.  |  Detection of Coronavirus(Covid19) disease using Deep Convolutional Neural Networks with Transfer Learning using chest X-Ray Images  |   Under Review |       [Code](https://github.com/Sghosh1999/Fine-Tuned-VGG16-Transfer-learning-Based-Covid19-Xray)         |  [Link](https://link.springer.com/chapter/10.1007/978-981-16-0935-0_4) |
-|  2.  |    MLAI: An Integrated Automated Software Platform to Solve Machine Learning Problems| Published | | [Link](https://link.springer.com/chapter/10.1007/978-981-15-8685-9_7)|
+|  2.  |    MLAI: An Integrated Automated Software Platform to Solve Machine Learning Problems| Published | [Link](https://github.com/Sghosh1999/AlphaAI-Minor-Project-6th-Sem) | [Link](https://link.springer.com/chapter/10.1007/978-981-15-8685-9_7)|
 
 	
 	

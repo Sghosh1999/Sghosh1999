@@ -1,9 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
+# 👋 Hey there! Nice to see you. 
 
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.  <br/>
+I am a self-driven 👨‍💻, self-taught 🎓, and highly motivated🤓 young Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real-world problems.  <br/>
 
 <br/>
 
@@ -12,9 +11,24 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓 young 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Natural Language processing; 
+- I have 3 years of experience, specializing in Python and expertise in the latest Generative AI concepts including Large Language Models (LLMs) like GPT, RAG (Retrieval-Augmented Generation), Embedding, and Information Retrieval from unstructured documents (NLP concepts).
+- Additionally, I have a sound understanding of Statistics, classical ML concepts, and deep learning algorithms.
+- I have strong capabilities in MLOps, including Azure ML, and end-to-end deployment processes.
+- Currently, I'm delving into Natural Language Processing (NLP) and learning how to build complex RAG pipelines for information retrieval using unstructured documents.
+- I'm also expanding my expertise to include dynamic Time Series Forecasting pipelines.
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://drive.google.com/drive/folders/105Tdrd5TnMvNK0SBw2yc408bE-vbCLjb)
+- 📝[Resume]([https://drive.google.com/drive/folders/105Tdrd5TnMvNK0SBw2yc408bE-vbCLjb](https://drive.google.com/file/d/1HE9bFXTYBg4eWrvDjWXrJs4x7zfD_NND/view?usp=sharing))
+
+### Technical Expertise:
+
+- **Generative AI:** Proficient in Large Language Models (LLMs) such as GPT and RAG, capable of generating human-like text and performing retrieval-augmented generation tasks.
+- **Natural Language Processing (NLP):** Skilled in NLP concepts including embeddings, information retrieval, and sentiment analysis.
+- **Machine Learning Operations (MLOps):** Experienced in deploying ML models using Azure ML and managing end-to-end deployment pipelines.
+- **Time Series Forecasting:** Building dynamic pipelines for time series forecasting using state-of-the-art techniques.
+- **Cloud Deployments:** Well-versed in deploying AI solutions on the Azure cloud platform, ensuring scalability, reliability, and security.
+
+Feel free to reach out if you want to discuss AI, ML, or anything tech-related!
+
 
 
 
